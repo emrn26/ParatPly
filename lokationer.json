@@ -1,0 +1,53 @@
+{
+  "Umbrellas": {
+    "umbrella1": {
+      "type": "Golf Umbrella",
+      "latitude": 55.679726,
+      "longitude": 12.534254,
+      "area": "Frederiksberg",
+      "availableUmbrellas": 5
+    },
+    "umbrella2": {
+      "type": "Compact Umbrella",
+      "latitude": 55.704453,
+      "longitude": 12.576936,
+      "area": "Østerbro",
+      "availableUmbrellas": 8
+    },
+    "umbrella3": {
+      "type": "Classic Umbrella",
+      "latitude": 55.691788,
+      "longitude": 12.555782,
+      "area": "Nørrebro",
+      "availableUmbrellas": 3
+    },
+    "umbrella4": {
+      "type": "Automatic Umbrella",
+      "latitude": 55.665874,
+      "longitude": 12.543354,
+      "area": "Vesterbro",
+      "availableUmbrellas": 7
+    },
+    "umbrella5": {
+      "type": "Travel Umbrella",
+      "latitude": 55.675940,
+      "longitude": 12.569240,
+      "area": "København K",
+      "availableUmbrellas": 2
+    },
+    "umbrella6": {
+      "type": "Kids Umbrella",
+      "latitude": 55.684017,
+      "longitude": 12.561556,
+      "area": "Frederiksberg",
+      "availableUmbrellas": 6
+    },
+    "umbrella7": {
+      "type": "Windproof Umbrella",
+      "latitude": 55.682304,
+      "longitude": 12.568762,
+      "area": "Nørrebro",
+      "availableUmbrellas": 9
+    }
+  }
+}
